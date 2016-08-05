@@ -77,3 +77,4 @@ questions about the CLA process, please refer to our [FAQ](https://cla.vmware.co
 refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
+GNU General Public License 2.0 (GPL 2.0)
