@@ -1,10 +1,5 @@
 
 
-# Contributing to measure-time
-
-## Community
-
-## Getting Started
 
 ## Contribution Flow
 
@@ -62,6 +57,7 @@ Be sure to add a comment to the PR indicating your new changes are ready to revi
 notification when you git push.
 
 ### Code Style
+Suggesting to use Google C++ Style Guide.
 
 ### Formatting Commit Messages
 
@@ -75,4 +71,3 @@ and commits.
 
 When opening a new issue, try to roughly follow the commit message format conventions above.
 
-## Repository Structure
